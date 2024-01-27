@@ -14,7 +14,7 @@ This is a React-based Quiz App that allows users to take quizzes on various topi
 
 ## Demo
 
-You can try out the live demo of the app [Deploy Link](#your-live-demo-link).
+You can try out the live demo of the app [Deploy Link](https://techquiz-app-online.netlify.app/).
 
 ## Installation
 
